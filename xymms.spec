@@ -8,6 +8,7 @@ URL:		http://sourceforge.net/projects/xymms/
 Source:		%{name}-%{version}.tar.bz2
 BuildRequires:	xmms-devel
 BuildRequires:	zlib-devel
+BuildRequires:	automake
 BuildRoot:	%{_tmppath}/%{name}-buildroot
 
 %description
