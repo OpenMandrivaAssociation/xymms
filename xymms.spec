@@ -4,7 +4,7 @@ Version:	0.9.1
 Release: %mkrel 8
 License:	BSD
 Group:		Sound
-URL:		http://sourceforge.net/projects/xymms/
+URL:		https://sourceforge.net/projects/xymms/
 Source:		%{name}-%{version}.tar.bz2
 BuildRequires:	xmms-devel
 BuildRequires:	zlib-devel
