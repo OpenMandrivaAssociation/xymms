@@ -6,6 +6,9 @@ License:	BSD
 Group:		Sound
 URL:		https://sourceforge.net/projects/xymms/
 Source:		%{name}-%{version}.tar.bz2
+BuildRequires:	autoconf
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
 BuildRequires:	xmms-devel
 BuildRequires:	zlib-devel
 BuildRequires:	automake
