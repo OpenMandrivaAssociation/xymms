@@ -1,7 +1,7 @@
 Summary:	GYM Input plugin for XMMS
 Name:		xymms
 Version:	0.9.1
-Release: %mkrel 8
+Release: 9
 License:	BSD
 Group:		Sound
 URL:		https://sourceforge.net/projects/xymms/
